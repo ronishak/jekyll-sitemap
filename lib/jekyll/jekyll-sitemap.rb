@@ -18,7 +18,6 @@ module Jekyll
       .htm
       .html
       .xhtml
-      .pdf
     ).freeze
 
     # Matches all whitespace that follows
